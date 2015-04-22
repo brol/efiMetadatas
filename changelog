@@ -1,0 +1,17 @@
+0.4.1 22-04-2015 Pierre Van Glabeke
+* modif url support
+
+0.4 15-01-2015 Pierre Van Glabeke
+* ajout options dans le widget (class, content only, hors ligne)
+* modifications affichage pour compatibilité currywurst
+* modifications localisation
+* merci à Philippe pour le bug du choix de pas d'image
+
+0.3 20100605
+* Writed now for DC 2.2 or higher
+
+0.2 20091218
+* Added generic class to get readable meta
+
+0.1 20091129
+* First lab release

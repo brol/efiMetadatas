@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: efiMetadatas 0.1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-12-18T00:28:47+00:00\n"
+"Last-Translator: JC Denis\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Show metadatas of first image of an entry"
+msgstr "Afficher les métadonnées de la première image d'un billet"
+
+#: _widgets.php:33
+msgid "square"
+msgstr "carrée"
+
+#: _widgets.php:34
+msgid "thumbnail"
+msgstr "aperçue"
+
+#: _widgets.php:35
+msgid "small"
+msgstr "petite"
+
+#: _widgets.php:36
+msgid "medium"
+msgstr "moyenne"
+
+#: _widgets.php:40
+msgid "Entry first image metadatas"
+msgstr "Métadonnées de la première image du billet"
+
+#: _widgets.php:46
+msgid "Category limit:"
+msgstr "Limiter à une catégorie :"
+
+#: _widgets.php:49
+msgid "Thumbnail size:"
+msgstr "Taille de la miniature :"
+
+#: _widgets.php:52
+msgid "Show empty metadatas"
+msgstr "Afficher les métadonnées vides"
+
+msgid "Description:"
+msgstr "Description :"
+
+msgid "Date:"
+msgstr "Date :"
+
+#: inc/class.efimetadatas.php:79
+msgid "Location:"
+msgstr "Lieu :"
+
+#: inc/class.efimetadatas.php:81
+msgid "Manufacturer:"
+msgstr "Fabricant :"
+
+#: inc/class.efimetadatas.php:82
+msgid "Model:"
+msgstr "Modèle :"
+
+#: inc/class.efimetadatas.php:83
+msgid "Lens:"
+msgstr "Objectif :"
+
+#: inc/class.efimetadatas.php:84
+msgid "Program:"
+msgstr "Programme :"
+
+#: inc/class.efimetadatas.php:85
+msgid "Speed:"
+msgstr "Vitesse :"
+
+#: inc/class.efimetadatas.php:86
+msgid "Aperture:"
+msgstr "Ouverture :"
+
+#: inc/class.efimetadatas.php:87
+msgid "ISO:"
+msgstr "ISO :"
+
+#: inc/class.efimetadatas.php:88
+msgid "Focal:"
+msgstr "Focale :"
+
+#: inc/class.efimetadatas.php:89
+msgid "Exposure Bias:"
+msgstr "Décalage d'exposition :"
+
+#: inc/class.efimetadatas.php:90
+msgid "Metering mode:"
+msgstr "Mode de mesure :"
+
+#: inc/class.efimetadatas.php:94
+msgid "Not defined"
+msgstr "Non défini"
+
+#: inc/class.efimetadatas.php:95
+msgid "Manual"
+msgstr "Manuel"
+
+#: inc/class.efimetadatas.php:96
+msgid "Normal program"
+msgstr "Normal"
+
+#: inc/class.efimetadatas.php:97
+msgid "Aperture priority"
+msgstr "Priorité à l'ouverture"
+
+#: inc/class.efimetadatas.php:98
+msgid "Shutter priority"
+msgstr "Priorité à la vitesse"
+
+#: inc/class.efimetadatas.php:99
+msgid "Creative program"
+msgstr "Création"
+
+#: inc/class.efimetadatas.php:100
+msgid "Action program"
+msgstr "Action"
+
+#: inc/class.efimetadatas.php:101
+msgid "Portait mode"
+msgstr "Portrait"
+
+#: inc/class.efimetadatas.php:102
+msgid "Landscape mode"
+msgstr "Paysage"
+
+#: inc/class.efimetadatas.php:106
+msgid "Unknow"
+msgstr "Inconnu"
+
+#: inc/class.efimetadatas.php:107
+msgid "Average"
+msgstr "Moyenne"
+
+#: inc/class.efimetadatas.php:108
+msgid "Center-weighted average"
+msgstr "Centrale pondèrée"
+
+#: inc/class.efimetadatas.php:109
+msgid "Spot"
+msgstr "Spot"
+
+#: inc/class.efimetadatas.php:110
+msgid "Multi spot"
+msgstr "Multi spot"
+
+#: inc/class.efimetadatas.php:111
+msgid "Pattern"
+msgstr "Multizone"
+
+#: inc/class.efimetadatas.php:112
+msgid "Partial"
+msgstr "Partielle"
+
+#: inc/class.efimetadatas.php:113
+msgid "Other"
+msgstr "Autre"
+
